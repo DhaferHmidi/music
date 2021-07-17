@@ -1,0 +1,17 @@
+var album1= ["Fight Fire with Fire","Ride the Lightning","For Whom the Bell Tolls","Fade to Black",	"Trapped Under Ice","Escape","Creeping Death"];
+var album2=["Battery","Master of Puppets","The Thing That Should Not Be","Welcome Home","Disposable Heroes","Leper Messiah","Orion","Damage"];
+var album3 =["Blackened","...And Justice for All","Eye of the Beholder","One","The Shortest Straw","Harvester of Sorrow","The Frayed Ends of Sanity","To Live Is to Die","Dyers Eve","The Prince"];
+var album4 = ["Enter Sandman","Sad but True","Holier than Thou","The Unforgiven","Wherever I May Roam","Don't Tread on Me","Through the Never","Nothing Else Matters","Of Wolf and Man","The God That Failed","My Friend of Misery","The Struggle Within"];
+var album5=["Curtains Up","White America","Business","Cleanin' Out My Closet","Square Dance","The Kiss","Soldier","Say Goodbye Hollywood","Without Me","Sing for the Moment","Hailie's Song","Say What You Say","My Dad's Gone Crazy"];
+var album6=["Kill You","Stan","Paul","Who Knew","The Way I Am",	"The Real Slim Shady","Remember Me?","I'm Back","Marshall Mathers","Bitch Please II","Kim","Criminal"];
+var album7=["Dollar and a Dream III","Can't Get Enough","Lights Please","Interlude","Sideline Story","Mr. Nice Watch","Cole World","In the Morning","Lost Ones","Never Told","Rise and Shine","God's Gift","Breakdown","Work Out"];
+var album8=["Paranoid","Spoil My Night","Rich & Sad","Zack and Codeine","Takin' Shots",	"Rockstar","Over Now","Psycho","Better Now","Ball for Me","Blame It on Me"];
+var album9=["Bad","The Way You Make Me Feel","Speed Demon","Liberian Girl",	"Just Good Friends","Another Part of Me","Man in the Mirror","I Just Can't Stop Loving You","Dirty Diana","Smooth Criminal","Leave Me Alone"];
+var album10=["Alone Again","Too Late","Hardest to Love","Scared to Live","Snowchild","Escape from LA","Heartless","Faith","Blinding Lights","In Your Eyes","Save Your Tears","Repeat After Me",	"After Hours",	"Until I Bleed Out"];
+var album11=["I Was Made for Lovin' You","2,000 Man","Sure Know Something","Dirty Livin'"];
+var album12=["Highway to Hell","Girls Got Rhythm","Walk All Over You","Touch Too Much","Beating Around the Bush"];
+var album13=["Realize","Rejection","Shot in the Dark","Through the Mists of Time","Kick You When You're Down","Witch's Spell"];
+var album14=["The Ides of March","Wrathchild","Murders in the Rue Morgue","Another Life","Genghis Khan","Innocent Exile"];
+var album15=["Wildest Dreams","Rainmaker","No More Lies","Montségur","Dance of Death","Gates of Tomorrow","New Frontier","Paschendale","Face in the Sand","Age of Innocence","Journeyman"];
+var display=$("#para").text(album1);
+$("#name" ).click(display);
